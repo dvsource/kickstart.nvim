@@ -38,6 +38,6 @@ nvim
 
 ### FAQ
 
-[Original Readme]([https://github.com/nvim-lua/kickstart.nvim/tree/master?tab=readme-ov-file](https://github.com/nvim-lua/kickstart.nvim/blob/master/README.md))
+[Original Readme](https://github.com/nvim-lua/kickstart.nvim/blob/master/README.md)
 
 
